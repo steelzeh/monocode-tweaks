@@ -1,0 +1,12 @@
+{
+  "id": "regenerate-title",
+  "name": "Regenerate title",
+  "version": "1.0.0",
+  "author": "steelzeh",
+  "description": "Write a new title for a chat from its whole conversation.",
+  "permissions": ["read_chat", "model", "rename_chat"],
+  "script": "main.js",
+  "menu": [
+    { "id": "regenerate", "label": "Regenerate title", "busy_label": "Regenerating title…" }
+  ]
+}
