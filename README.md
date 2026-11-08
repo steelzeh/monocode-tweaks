@@ -12,12 +12,20 @@ It asks for these permissions:
 - **Use your model and tokens:** it sends part of that chat to your background model.
 - **Rename chats:** it renames only the chat you right-clicked.
 
+## Worktrees
+
+Adds a **Worktrees** tab to the right panel. It lists the project's working copies, and a click switches to one.
+
+It asks for this permission:
+
+- **See and switch worktrees:** it reads the project's worktrees and switches between them.
+
 ## Install
 
 **Tweaks are not in the official MonoCode app yet.** You need a build that has the Tweaks feature.
 
 1. Open **Settings**, then **Tweaks**.
-2. Press **Add from GitHub** and paste `steelzeh/monocode-tweaks/regenerate-title`.
+2. Press **Add from GitHub** and paste `steelzeh/monocode-tweaks/regenerate-title` or `steelzeh/monocode-tweaks/worktrees`.
 3. Check what it does, press **Install**, and turn it on.
 
 ## Safety

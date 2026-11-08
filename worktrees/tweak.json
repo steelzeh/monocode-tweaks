@@ -1,0 +1,9 @@
+{
+  "id": "worktrees",
+  "name": "Worktrees",
+  "version": "1.0.0",
+  "author": "steelzeh",
+  "description": "List this project's working copies and switch between them.",
+  "permissions": ["worktrees"],
+  "panel": { "title": "Worktrees", "script": "panel.js", "icon": "folder-tree" }
+}
